@@ -82,12 +82,12 @@ I build full-stack web platforms and mobile apps — mostly with **Laravel** on 
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**inapku**](https://github.com/MagatsuS/inapku) 🔒 | Homestay Booking System — booking management for homestay operators | Laravel, Blade, MySQL, JavaScript |
-| [**dapurku**](https://github.com/MagatsuS/dapurku) 🔒 | F&B Ordering System — food & beverage ordering platform | Laravel, MySQL |
-| [**MagatsuStore**](https://github.com/MagatsuS/MagatsuStore) | E-commerce store with payment gateway integration (Stripe & FPX) | Laravel, Blade, JavaScript |
-| [**cms_py**](https://github.com/MagatsuS/cms_py) | Custom CMS to display content from a Laravel project | Python |
-| [**portfolio**](https://github.com/MagatsuS/portfolio) | Personal portfolio website | HTML, CSS, JavaScript |
-| [**Pokemon-App5**](https://github.com/MagatsuS/Pokemon-App5) | Pokémon browser app built with Vue | Vue, JavaScript |
+| [**inapku**](https://github.com/Luqidrari/inapku) 🔒 | Homestay Booking System — booking management for homestay operators | Laravel, Blade, MySQL, JavaScript |
+| [**dapurku**](https://github.com/Luqidrari/dapurku) 🔒 | F&B Ordering System — food & beverage ordering platform | Laravel, MySQL |
+| [**MagatsuStore**](https://github.com/Luqidrari/MagatsuStore) | E-commerce store with payment gateway integration (Stripe & FPX) | Laravel, Blade, JavaScript |
+| [**cms_py**](https://github.com/Luqidrari/cms_py) | Custom CMS to display content from a Laravel project | Python |
+| [**portfolio**](https://github.com/Luqidrari/portfolio) | Personal portfolio website | HTML, CSS, JavaScript |
+| [**Pokemon-App5**](https://github.com/Luqidrari/Pokemon-App5) | Pokémon browser app built with Vue | Vue, JavaScript |
 
 🔒 = private repository
 
@@ -103,13 +103,13 @@ I build full-stack web platforms and mobile apps — mostly with **Laravel** on 
 ## 📈 GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=MagatsuS&theme=dark&hide_border=true&background=00000000">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=MagatsuS&hide_border=true&background=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Luqidrari&theme=dark&hide_border=true&background=00000000">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Luqidrari&hide_border=true&background=00000000">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MagatsuS&theme=github-dark&hide_border=true&bg_color=00000000">
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MagatsuS&theme=github-light&hide_border=true&bg_color=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Luqidrari&theme=github-dark&hide_border=true&bg_color=00000000">
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Luqidrari&theme=github-light&hide_border=true&bg_color=00000000">
 </picture>
 
 ---
