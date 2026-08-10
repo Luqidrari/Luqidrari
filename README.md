@@ -87,9 +87,15 @@ I build full-stack web platforms and mobile apps — mostly with **Laravel** on 
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MagatsuS)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=MagatsuS&theme=dark&hide_border=true&background=00000000">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=MagatsuS&hide_border=true&background=00000000">
+</picture>
 
-![Contribution Graph](https://ghchart.rshah.org/MagatsuS)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MagatsuS&theme=github-dark&hide_border=true&bg_color=00000000">
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MagatsuS&theme=github-light&hide_border=true&bg_color=00000000">
+</picture>
 
 ---
 
