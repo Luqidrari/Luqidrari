@@ -69,7 +69,7 @@ I build full-stack web platforms and mobile apps — mostly with **Laravel** on 
 |---------|-------------|------|
 | [**inapku**](https://github.com/MagatsuS/inapku) 🔒 | Homestay Booking System — booking management for homestay operators | Laravel, Blade, MySQL, JavaScript |
 | [**dapurku**](https://github.com/MagatsuS/dapurku) 🔒 | F&B Ordering System — food & beverage ordering platform | Laravel, MySQL |
-| [**MagatsuStore**](https://github.com/MagatsuS/MagatsuStore) | E-commerce store built with Laravel | Laravel, Blade, JavaScript |
+| [**MagatsuStore**](https://github.com/MagatsuS/MagatsuStore) | E-commerce store with payment gateway integration (Stripe & FPX) | Laravel, Blade, JavaScript |
 | [**cms_py**](https://github.com/MagatsuS/cms_py) | Custom CMS to display content from a Laravel project | Python |
 | [**portfolio**](https://github.com/MagatsuS/portfolio) | Personal portfolio website | HTML, CSS, JavaScript |
 | [**Pokemon-App5**](https://github.com/MagatsuS/Pokemon-App5) | Pokémon browser app built with Vue | Vue, JavaScript |
