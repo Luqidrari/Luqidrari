@@ -59,7 +59,9 @@ I build full-stack web platforms and mobile apps — mostly with **Laravel** on 
 
 ## 📈 GitHub Stats
 
-![MagatsuS's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagatsuS&show_icons=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MagatsuS)
+
+![Contribution Graph](https://ghchart.rshah.org/MagatsuS)
 
 ---
 
