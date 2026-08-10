@@ -15,6 +15,7 @@ I build full-stack web platforms and mobile apps — mostly with **Laravel** on 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 **Database**
