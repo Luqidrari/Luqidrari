@@ -15,7 +15,7 @@ I build full-stack web platforms and mobile apps — mostly with **Laravel** on 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-64748B?style=flat)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-64748B?style=flat&logo=swagger&logoColor=white)
 ![MVC Architecture](https://img.shields.io/badge/MVC%20Architecture-64748B?style=flat)
 ![RBAC](https://img.shields.io/badge/RBAC-64748B?style=flat)
 ![JWT / OTP Auth](https://img.shields.io/badge/JWT%20%2F%20OTP%20Auth-64748B?style=flat)
