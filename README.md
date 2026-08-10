@@ -15,11 +15,11 @@ I build full-stack web platforms and mobile apps — mostly with **Laravel** on 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-64748B?style=flat&logo=swagger&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=fastapi&logoColor=white)
 ![MVC Architecture](https://img.shields.io/badge/MVC%20Architecture-64748B?style=flat)
 ![RBAC](https://img.shields.io/badge/RBAC-64748B?style=flat)
-![JWT / OTP Auth](https://img.shields.io/badge/JWT%20%2F%20OTP%20Auth-64748B?style=flat)
-![Blade](https://img.shields.io/badge/Blade-64748B?style=flat)
+![JWT / OTP Auth](https://img.shields.io/badge/JWT%20%2F%20OTP%20Auth-64748B?style=flat&logo=jsonwebtokens&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-64748B?style=flat&logo=laravel&logoColor=white)
 ![ChipIn Asia API](https://img.shields.io/badge/ChipIn%20Asia%20API-64748B?style=flat)
 
 **Database & Cloud**
@@ -51,7 +51,7 @@ I build full-stack web platforms and mobile apps — mostly with **Laravel** on 
 ![PDF / Excel Export](https://img.shields.io/badge/PDF%20%2F%20Excel%20Export-64748B?style=flat)
 ![ApexCharts](https://img.shields.io/badge/ApexCharts-64748B?style=flat)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-64748B?style=flat)
-![SMTP / Mailgun](https://img.shields.io/badge/SMTP%20%2F%20Mailgun-64748B?style=flat)
+![SMTP / Mailgun](https://img.shields.io/badge/SMTP%20%2F%20Mailgun-64748B?style=flat&logo=mailgun&logoColor=white)
 
 **Tools**
 
