@@ -4,7 +4,7 @@
 
 I build full-stack web platforms and mobile apps — mostly with **Laravel** on the backend and **Flutter** on mobile. Currently a Software Developer at **Revenue Discovery Sdn Bhd**, where I develop enterprise systems for financial data analysis, productivity measurement, and reporting.
 
-📫 Reach me at **luqmanulhakim3krk@gmail.com**
+📫 Reach me at **luqidrari@gmail.com**
 
 ---
 
