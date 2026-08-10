@@ -15,13 +15,20 @@ I build full-stack web platforms and mobile apps — mostly with **Laravel** on 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-64748B?style=flat)
+![MVC Architecture](https://img.shields.io/badge/MVC%20Architecture-64748B?style=flat)
+![RBAC](https://img.shields.io/badge/RBAC-64748B?style=flat)
+![JWT / OTP Auth](https://img.shields.io/badge/JWT%20%2F%20OTP%20Auth-64748B?style=flat)
+![Blade](https://img.shields.io/badge/Blade-64748B?style=flat)
+![ChipIn Asia API](https://img.shields.io/badge/ChipIn%20Asia%20API-64748B?style=flat)
 
-**Database**
+**Database & Cloud**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Firebase Firestore](https://img.shields.io/badge/Firebase%20Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=flat&logo=firebase&logoColor=black)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 
 **Frontend**
 
@@ -29,15 +36,22 @@ I build full-stack web platforms and mobile apps — mostly with **Laravel** on 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-64748B?style=flat)
+![DataTables](https://img.shields.io/badge/DataTables-64748B?style=flat)
 
 **Mobile**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Push Notifications](https://img.shields.io/badge/Push%20Notifications-64748B?style=flat)
 
-**Infrastructure**
+**Reporting & Data**
 
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+![PhpSpreadsheet](https://img.shields.io/badge/PhpSpreadsheet-64748B?style=flat)
+![PDF / Excel Export](https://img.shields.io/badge/PDF%20%2F%20Excel%20Export-64748B?style=flat)
+![ApexCharts](https://img.shields.io/badge/ApexCharts-64748B?style=flat)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-64748B?style=flat)
+![SMTP / Mailgun](https://img.shields.io/badge/SMTP%20%2F%20Mailgun-64748B?style=flat)
 
 **Tools**
 
