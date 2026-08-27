@@ -1,0 +1,45 @@
+name: Profile stats
+
+on:
+  schedule:
+    # 00:30 MYT — after the day has rolled over locally, so the streak is current.
+    - cron: '30 16 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/gen-stats.mjs'
+      - '.github/workflows/profile-stats.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate stat SVGs
+        env:
+          # PROFILE_TOKEN is a PAT with read:user — required for private
+          # contributions to be counted. GITHUB_TOKEN alone only sees public
+          # activity, which for this account is a small fraction of the total.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+        run: node scripts/gen-stats.mjs Luqidrari assets
+
+      - name: Commit if changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets
+          git diff --staged --quiet || git commit -m 'chore: refresh profile stats'
+          git push

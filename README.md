@@ -103,14 +103,16 @@ I build full-stack web platforms and mobile apps — mostly with **Laravel** on 
 ## 📈 GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Luqidrari&theme=dark&hide_border=true&background=00000000">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Luqidrari&hide_border=true&background=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg">
+  <img alt="GitHub Streak" src="assets/streak-light.svg">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Luqidrari&theme=github-dark&hide_border=true&bg_color=00000000">
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Luqidrari&theme=github-light&hide_border=true&bg_color=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <img alt="Contribution Graph" src="assets/activity-light.svg">
 </picture>
+
+<sub>Generated daily from the GitHub API by <a href="scripts/gen-stats.mjs">scripts/gen-stats.mjs</a>.</sub>
 
 ---
 
