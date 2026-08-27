@@ -30,9 +30,10 @@ jobs:
 
       - name: Generate stat SVGs
         env:
-          # PROFILE_TOKEN is a PAT with read:user — required for private
-          # contributions to be counted. GITHUB_TOKEN alone only sees public
-          # activity, which for this account is a small fraction of the total.
+          # GITHUB_TOKEN is enough: most of this account's contributions are to
+          # private repos, but "Include private contributions on my profile" is
+          # enabled, which makes the counts readable without a PAT. Set a
+          # PROFILE_TOKEN secret (read:user) only if that setting is turned off.
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
         run: node scripts/gen-stats.mjs Luqidrari assets
 
