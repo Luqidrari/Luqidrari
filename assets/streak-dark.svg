@@ -8,7 +8,7 @@
       <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.1s" fill="freeze"/>
       <text x="0" y="0" text-anchor="middle" fill="#e6edf3" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="28">90</text>
       <text x="0" y="28" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="500" font-size="14">Total Contributions</text>
-      <text x="0" y="52" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12">Sep 1, 2024 - Sep 10, 2026</text>
+      <text x="0" y="52" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12">Sep 1, 2024 - Sep 11, 2026</text>
     </g>
 
     <g transform="translate(412.5, 48)">
