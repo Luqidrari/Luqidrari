@@ -1,8 +1,8 @@
 # Hi, I'm Luqmanul Hakim 👋
 
-**Software Developer** based in Selangor, Malaysia 🇲🇾
+**Software Engineer** based in Selangor, Malaysia 🇲🇾
 
-I build full-stack web platforms and mobile apps — mostly with **Laravel** on the backend and **Flutter** on mobile. Currently a Software Developer I develop enterprise systems for financial data analysis, productivity measurement, and reporting.
+I build full-stack web platforms and mobile apps — mostly with **Laravel** on the backend and **Flutter** on mobile. Currently a Software Engineer at **Fiuu**, working on payment gateway systems.
 
 📫 Reach me at **luqidrari@gmail.com**
 
